@@ -1,0 +1,19 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "Proyecto de AP Veterinario a domicilio",
+  "main": "index.js",
+  "scripts": {
+   "sass": "sass style.scss cssOK/style.min.css -w --no-source-map -s compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazmartin/ProyectoAPVET.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazmartin/ProyectoAPVET/issues"
+  },
+  "homepage": "https://github.com/jazmartin/ProyectoAPVET#readme"
+}
