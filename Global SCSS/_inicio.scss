@@ -1,0 +1,18 @@
+header{
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+
+#menu a{
+    font-size: $fontMenu;
+    color: $colorPrimary;
+
+.carousel-inner{
+    max-height: 50px;
+}
+}
+}
+
+@media (max-width: 768px) {
+    #intro {
+        width: 90% !important;
+    }
+}
