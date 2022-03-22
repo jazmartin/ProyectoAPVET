@@ -1,12 +1,19 @@
-body{
+
     *{
         margin: 0;
         padding: 0;
     }
     
     body{
-        background-color: #DBE6FD;
+        background-color: $colorLight;
         font-family: 'Montserrat', sans-serif;
         overflow-x: hidden;
     }
-}
+
+footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+ }
